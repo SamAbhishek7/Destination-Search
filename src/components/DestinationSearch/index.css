@@ -1,0 +1,40 @@
+/* Write your CSS here */
+* {
+  font-family: 'Roboto';
+}
+
+.main-container {
+  padding: 20px;
+  text-align: center;
+}
+
+.main-heading {
+  font-size: 40px;
+  color: #0f172a;
+}
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.search-img {
+  height: 40px;
+  background-color: #f1f5f9;
+  padding: 10px;
+}
+.searchele {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.search {
+  border-style: none;
+  background-color: #f1f5f9;
+  padding: 10px;
+  outline: none;
+  height: 40px;
+  font-size: large;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.image {
+  max-width: 250px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.description {
+  font-size: 20px;
+  text-align: left;
+  margin-left: 10px;
+  font-weight: 500;
+}
+.item {
+  padding: 5px;
+}
